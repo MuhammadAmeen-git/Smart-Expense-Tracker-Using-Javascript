@@ -1,7 +1,3 @@
-/* Variables ,Datatypes including objects(key value pair) , Let , const, Operators ,
-conditional statements , Loops , Strings , Arrays , Functions ,arrow functions and Methods */
-
-
 let budget = 20000;
 
 const expenses = [
