@@ -1,4 +1,4 @@
-Smart Expense Tracker
+#Smart Expense Tracker
 This is a simple expense tracker I made using JavaScript. It helps me keep track of my expenses and see how much of my monthly budget I have spent.
 Features
 •	Add new expenses with a title, amount, category, and date.
